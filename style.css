@@ -54,6 +54,12 @@ body {
 	color: #fff;
 }
 
+.btn:hover {
+	background-color: #fff;
+	color: var(--secondary-color);
+	border: 2px solid var(--secondary-color);
+}
+
 .container {
 	margin: 20px;
 	width: 80%;
