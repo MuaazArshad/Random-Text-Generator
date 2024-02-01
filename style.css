@@ -61,6 +61,8 @@ body {
 
 .paragraphs {
 	line-height: 26px;
-	font-weight: 100;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+	text-transform: initial;
 	color: var(--primary-color);
 }
